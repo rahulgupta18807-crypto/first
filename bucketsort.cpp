@@ -4,8 +4,7 @@ using namespace std;
 struct Node
 {
     int data;
-    Node* next;
-};
+    Node* next;};
 
 void bucketSort(int arr[],int n)
 {
